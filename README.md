@@ -9,8 +9,8 @@ We propose a novel ingredient-guided RGB-D fusion network that integrates RGB im
 Dataset metadata is stored in  nutrition5k_dataset . The organizational form of the dataset is as follows:
 
 |-nutrition5k_dataset
-    |---imagery
-        |---realsense_overhead
+|---imagery
+    |---realsense_overhead
             |---Dish1
 		|---depth_color.png
 		|---rgb.png
